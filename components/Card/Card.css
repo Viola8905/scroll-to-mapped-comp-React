@@ -1,0 +1,12 @@
+.card {
+  height: 1200px;
+  width: 600px;
+  background-color: red;
+  margin: 50px;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+.header {
+  height: 500px;
+}
